@@ -1,0 +1,26 @@
+extends layout
+
+block content
+	#opskrift
+		.row.col-md-12
+			h1
+				=title
+
+		if recipe.ingredients
+			each ingredient, i in recipe.ingredients
+				.row
+					.col-md-1.col-sm-1.col-xs-1
+						p.text-justify
+							=ingredient.amount
+					.col-md-1.col-sm-3
+						p.text-center
+							=ingredient.unit
+					.col-md-3.col-sm-4.col-xs-8
+						=ingredient.type
+		else
+			.row
+				Her mangler vist nogle ingredienser	
+		.row
+		.col-md-12
+		=recipe.instructions
+		

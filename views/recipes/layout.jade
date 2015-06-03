@@ -1,0 +1,24 @@
+﻿doctype html
+html(lang='en')
+	include header
+   
+	body
+	// Fixed navbar med full width
+	.navbar.navbar-inverse.navbar-fixed-top(role='navigation')
+		.container-fluid 
+			.navbar-header
+				//ToDo check up on min. bars
+				a.navbar-brand(href='')
+					img(src='/images/toresmad.png' width= "100px")
+		
+			ul.nav.navbar-nav
+				li
+					a(href='./') Hjem
+				li
+					a(href='/recipes') Opskrifter
+				li
+					a(href='./new') Ny Opskrift
+
+			// Main component for a primary marketing message or call to action
+	.container
+		block content

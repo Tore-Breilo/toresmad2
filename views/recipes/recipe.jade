@@ -1,0 +1,30 @@
+.row
+	#{recipe.title}
+.container
+
+	.col-md1.col-md-offset-10
+		if recipe.date 
+			=recipe.date.getFullYear()
+			="/"
+			=recipe.date.getMonth()+1
+			="/"
+			=recipe.date.getDate()
+		.col-md-6
+		=recipe.description
+	if recipe.instructions.length
+		.row
+			Ingredienser
+		each ingr in recipe.ingredients
+			.row
+				.col-md-1.col-sm-1
+					=ingr.amount
+				.col-md-1.col-sm-1
+					=ingr.unit
+				.col-md-4.col.col-sm-4
+					=ingr.type
+	.row
+		.h3 Sådan gør du:
+	.row.col-md-6
+		=recipe.instructions
+	.row.col-md-12
+		=recipe.description

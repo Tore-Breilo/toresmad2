@@ -1,0 +1,20 @@
+extends layout
+
+block content
+	.panel
+		.panel-heading Opskriftslisten over alle lister:
+		.panel-body
+			if recipes.length
+				each recipe in recipes
+					if recipe
+						.col-sm-4
+							a.btn-default(role='' href='/recipes/#{recipe._id}')=recipe.title
+						.col-sm-2
+							form(method="POST" action="/recipes/#{recipe._id}?_method=DELETE" enctype="application/x-www-form-urlencoded")
+								a.btn.btn-default.btn-xs(role='button' href='/recipes/edit/#{recipe._id}')
+									span.glyphicon.glyphicon-pencil(aria-hidden="false")
+								button.btn.btn-default.btn-xs(type="submit" id='submit')
+									span.glyphicon.glyphicon-trash(aria-hidden="false")
+
+					else
+						h3 Ingen opskrifter blev fundet
