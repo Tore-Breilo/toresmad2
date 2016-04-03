@@ -22,16 +22,22 @@ var recipeSchema = new Schema({
 
     ingredients: [Ingredient],
     servings: {
-        amount: Number,
+        amount: String,
         unit: String},
     image: String,
+    created: {
+        type: Date,
+        default: Date.now
+    },
     date: {
         type: Date,
         default: Date.now
     },
-    update: {
-        type: Date,
-        default: Date.now
+    tip: {
+        type: String
+    },
+    author: {
+        type: String
     },
     hidden: Boolean,
     meta: {
@@ -66,7 +72,7 @@ exports.recipeDB = {
    listRecipes: function (callback) {
       Recipe.find({}, function (err, docs) {
            callback(err,docs);
-      });
+      }).sort({title:1});
    },
 
    getRecipe: function(id, callback) {

@@ -1,0 +1,179 @@
+{ 
+    "title" : "Passionsfrugtkugler", 
+    "date" : ISODate("2013-02-10T23:28:56.782+0000"), 
+    "lastupdate" : ISODate("2016-02-02T23:28:56.782+0000"), 
+    "amount" : {
+        "servings" : "ca. 350 g", 
+        "weigth" : ""
+    }, 
+    "preptime" : {
+        "active" : "", 
+        "passive" : ""
+    }, 
+    "categories" : [
+
+    ], 
+    "origin" : "wwww.toresmad.dk", 
+    "ingredients" : [
+        {
+            "amount" : "150", 
+            "unit" : "g", 
+            "type" : "hasselnødder, økologiske", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "0,5", 
+            "unit" : "tsk", 
+            "type" : "vaniljepulver, ikke vaniljesukker", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "tsk", 
+            "type" : "passionsfrugtpulver, fryssetørret", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "1,5", 
+            "unit" : "tsk", 
+            "type" : "hybenpulver", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "stk", 
+            "type" : "citron", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        },
+               {
+            "amount" : "1", 
+            "unit" : "stk", 
+            "type" : "citron", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        },
+               {
+            "amount" : "1", 
+            "unit" : "spsk", 
+            "type" : "kokosolie", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        },
+               {
+            "amount" : "150", 
+            "unit" : "g", 
+            "type" : "dadler, uden sten", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        },
+               {
+            "amount" : "", 
+            "unit" : "", 
+            "type" : "passionsfrugtpulver til pynt", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "kolonial", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }
+    ], 
+    "instructions" : "Blend hasselnødderne til mel, sammen med vaniljepulver, passionsfrugtpulver og hybenpulver.
+        Riv citronen og pres saften ned i kuglemassen.
+        Tilsæt kokosolie dadler og blend til en ensartet marcipanlignende masse.
+        Rul massen som kuglerne eller rul massen ud skær den i mundrette stykker.
+        Sigt passionsfrugtkugler ud over konfekten
+", 
+    "description" : "Denne opskrift er god til at hapse. På trods af meget sejlivede rygter om at økologisk ikke feder  – er der tegn på at selv økologiske passionsfrugtkugler kan forårsage øget kropsvægt…", 
+    "author" : "Tore", 
+    "tip" : "Du kan bruge cashwewnødder eller mandler hvis du ikke er til hasselnødder.
+        Vær opmærksom på at mandler er sødere end hasselnødder så jeg vil bruge lidt færre mandler fx 100 – 120 g.", 
+    "image" : "passionsfrugt-kugler.png", 
+    "ratings" : {
+        "number" :0, 
+        "sum" : 0, 
+        "showings" :0
+    }
+}

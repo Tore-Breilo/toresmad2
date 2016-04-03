@@ -1,0 +1,28 @@
+"mushrooms":{
+	"latinname": "Boletus edulis",
+	"dkname": "Karl Johan",
+	"state": "fresh",
+	"nutrients":{
+		"energy_kj": 342.4,
+		"protein" :7.39,
+		"fat": 1.70,
+		"thiamine": "0.105 mg",
+		"riboflavin":"0.092 mg",
+		"niacin":"6.07 mg",
+		"pantothenic_acid": "2.64 mg",
+		"vitamin_b6": "0.051 mg",
+		"Folate": "290 μg",
+		"vitamin_c": "4.21 mg",
+		"calcium": "0.195 mg",
+		"iron": "0.739 mg",
+		"phosphorus": "22.26 mg",
+		"potassium": "203.3 mg",
+		"zinc": "4.172 mg"
+	},
+	{}
+}
+
+
+
+
+

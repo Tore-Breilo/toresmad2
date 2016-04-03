@@ -1,4 +1,5 @@
 extends layout
+
 mixin ingline
 	.form-group
 		.col-sm-2
@@ -13,12 +14,11 @@ mixin ingline
 		a.btn.btn-default.col-sm-1(role='button' value="Remove review"  onclick="this.parentNode.parentNode.removeChild(this.parentNode);")
 			span.glyphicon.glyphicon-trash(aria-hidden="true")
 		
-
 block content
 
 	div(id= "readingredient" style="display: none")
 		+ingline
-		//'application/json'
+		
 	form.form-horizontal(name = 'denneform' method="post" action="/recipes/create" enctype:= 'application/json')
 		.form-group
 			.col-sm-2
@@ -29,15 +29,14 @@ block content
 				label(for="inputSn" class="col-sm-1 control-label") Serienummer
 			.col-sm-10
 				input(type="text" class="form-control" id="inputSn" placeholder="Opskriftens SN" name="recipesn" required)
-		.form-group
 			.col-sm-2
 				label(for="inputDescription" class="col-sm-1 control-label") Beskrivelse
 			.col-sm-10
-				input(type="textarea" class="form-control" id="inputDescription" placeholder="Hvad går opskriften ud på?" name="recipeinstructions")
+				input(type="textarea" rows="3" class="form-control" id="inputDescription" placeholder="Hvad går opskriften ud på?" name="recipeinstructions")
 			.col-sm-2
-				label(for="inputInstructions" class="col-sm-1 control-label") Instruktioner
+				label.col-sm-1.control-label(for="inputInstructions") Instruktioner
 			.col-sm-10
-				input(type="textarea" class="form-control" id="inputIns" placeholder="Hvordan gør du?" name="recipeinstructions")
+				input.form-control(type="textarea" id="inputIns" placeholder="Hvordan gør du?" name="recipeinstructions")
 
 		+ingline
 					
@@ -54,6 +53,4 @@ block content
 			var newField = document.getElementById("readingredient").cloneNode(true)
 			newField.style.display = 'block' // Makes the ingredintline visible
 			document.getElementById("inserthere").appendChild(newField)
-			//var insertHere = document.getElementById('writeroot');
-			//insertHere.parentNode.insertBefore(newFields,insertHere);
 		}

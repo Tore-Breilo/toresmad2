@@ -1,0 +1,21 @@
+{
+    "title": "Marcipan med honning",
+    "servings": "Giver 2 store glas (a 4 dl)",
+    "description": "Ofte er der for meget sukker i almindelig marcipan, denne marcipan indeholder knap 20 % sukker og smager meget bedre end købe-marcipan.",
+    "origin": "Tores Mad",
+    "ingredients": [{
+        "amount": "400",
+        "unit": "g",
+        "type": "mandler"
+    }, {
+        "amount": "100",
+        "unit": "g",
+        "type": "akaciehonning, gerne øko"
+    }, {
+        "amount": "2-3",
+        "unit": "spsk",
+        "type": "vand"
+    }],
+    "instructions": "Mandlerne smuttes og blendes indtil du har en fin mandelmel. Tilsæt honningen og blend indtil massen er, som du vil have den. Det vil ofte være nødvendigt at tilsætte lidt vand for at opnå en behagelig masse. Slut med at ælte massen sammen i skål. Opbevares i køleskab.",
+    "tip": "Kan eventuelt tilsættes lidt lakridspulver."
+}

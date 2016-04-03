@@ -1,20 +1,53 @@
 extends layout
 
 block content
-	.panel
-		.panel-heading Opskriftslisten over alle lister:
-		.panel-body
-			if recipes.length
-				each recipe in recipes
-					if recipe
-						.col-sm-4
-							a.btn-default(role='' href='/recipes/#{recipe._id}')=recipe.title
-						.col-sm-2
-							form(method="POST" action="/recipes/#{recipe._id}?_method=DELETE" enctype="application/x-www-form-urlencoded")
-								a.btn.btn-default.btn-xs(role='button' href='/recipes/edit/#{recipe._id}')
-									span.glyphicon.glyphicon-pencil(aria-hidden="false")
-								button.btn.btn-default.btn-xs(type="submit" id='submit')
-									span.glyphicon.glyphicon-trash(aria-hidden="false")
+	//.checkbox
+	//label
+		input(id='toggle1' data-toggle="toggle" onclick="toggleOn()" type="checkbox") des
+	//h2 Simple Collapsible
+	//button(type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo") Simple collapsible
+	//#demo1.collapse
+	//Thu hej
+	.navbar.navbar-default 
+		.container-fluid
+			.col-xs-6
+				input(type="text" class="form-control" id="search" placeholder="søg" name="searchstring")
+			a.btn.btn-default(role='button' onclick= "search()")
+				span.glyphicon.glyphicon-search
+	.container
+		if recipes.length>=0
+			each recipe in recipes
 
-					else
-						h3 Ingen opskrifter blev fundet
+				if recipe!=""
+					.col-xs-4.col-sm-3.col-md-2
+						a(class ="thumb_wrapper" href="/recipes/#{recipe._id}")
+							if recipe.image 
+								img( src= "/images/tn_" + recipe.image)
+							else
+								img(width="100%" src= "/images/tn_plate.jpg")
+							.description
+								p.description_content 
+									=recipe.title
+		
+						
+
+					//.carousel-caption
+					//	h1 =recipe.title)
+					//.col-sm-2
+					//form(method="POST" action="/recipes/#{recipe._id}?_method=DELETE" enctype="application/x-www-form-urlencoded")
+					//a.btn.btn-default.btn-xs(role='button' href='/recipes/edit/#{recipe._id}')
+					//	span.glyphicon.glyphicon-pencil(aria-hidden="false")
+					//button.btn.btn-default.btn-xs(type="submit" id='submit')
+					//	span.glyphicon.glyphicon-trash(aria-hidden="false")
+
+				else
+					h3 Ingen opskrifter blev fundet
+
+	script(type='text/javascript').
+		function toggleOn(){
+			if (toggle)
+				recipes.sort({title: 1})
+			else			
+				recipes.sort({title: -1})
+		}
+	

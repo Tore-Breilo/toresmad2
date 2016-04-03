@@ -2,14 +2,13 @@ var recipeDB = require('../model/recipe.js').recipeDB;
 
 // index listing of recipes at /recipes/
 exports.index = function(req, res) {
-	console.log('index er nået');
-    recipeDB.listRecipes(function(err, docs) {
+	recipeDB.listRecipes(function(err, docs) {
         if (err) {
             res.send(err);
         }
         else {
             res.render('recipes/index', {
-                title: 'recipes',
+                title: 'Tores Mad',
                	recipes: docs
             });
         }
@@ -46,7 +45,7 @@ exports.create = function(req, res) {
                 });
                 //ingr.push({req.body.amount[i], req.body.unit[i],  req.body.type[i]});
 
-            };
+            }
         } else {
             ingr.push({
                 'amount': req.body.amount,
@@ -99,7 +98,7 @@ exports.show = function(req, res) {
             res.send('Der mangler desværre en opskrift med nummeret ' + id);
         else
         	//console.log('længden på doc er:'+doc.length);
-            //console.log(doc);
+            console.log(doc);
             res.render('recipes/show', {
                 title: 'Vis opskrift',
                 recipe: doc
@@ -120,7 +119,7 @@ exports.destroy = function(req, res) {
                 
             });
             
-        };
+        }
     });
 
 };
@@ -136,6 +135,9 @@ exports.edit = function(req, res) {
         if (err)
             res.send('Der mangler desværre en opskrift med nummeret ' + id);
         else
+            var recipe={
+                recipetitle:doc.title
+            };
             res.render('recipes/edit', {
                 title: 'Rediger opskrift',
                 recipe: doc
@@ -163,7 +165,7 @@ exports.update = function(req, res) {
     console.log(recipe);
     recipeDB.updateRecipe(sn, recipe, function(err) {
         if (err)
-            res.send('Der var et opdateringsproblem,' + err)
+            res.send('Der var et opdateringsproblem,' + err);
         else
             res.render('recipes/added', {
                 title: 'Opskriften blev opdateret',

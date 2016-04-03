@@ -1,0 +1,34 @@
+{
+	"title": "Æblesorbet",
+	"date": ISODate("2010-12-29T23:28:56.782Z"),
+	"lastupdate": ISODate("2016-02-2T23:28:56.782Z"),
+	"amount": {"servings":"ca. 1 liter", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "500", "unit":"g" , "type":"æbler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "50", "unit":"g" , "type":"dadler, tørrede", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2,5", "unit":"dl" , "type":"vand", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5 ", "unit":"stk" , "type":"citron", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"knvsp" , "type":"vaniljepulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"stk" , "type":"æggerhvider, pasteuriserede", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Dadlerne hakkes groft og lægges i blød i vandet. Æblerne skrælles og skæres i grove
+		tern. Kog æblerne sammen med dadlerne og udblødningsvandet - til mosen er mosbar.
+		Tilsæt reven skal af ½ citron, økologisk naturligvis, samt vaniljepulver. Smag evt. til med
+		citronsaft og vaniljepulver. Rør mosen fin med en håndmikser og lad mosen køle af. 
+		Når mosen er afkølet sættes den i fryseren. Rør i sorbeten af og til. Pisk æggehviderne stive, 
+		efter ca. 1½ time vendes de forsigtigt i sorbeten. Efter yderligere 2 timers frysning har
+		du en fin sorbet. Sorbet bør tages ud af fryseren 20 – 30 minutter før brug. Opbevares i fryser.
+",
+	"description":"Denne sorbet er rimelig nem at lave, sorbeten har et lavt sukkerindhold i forhold til en traditionel
+sorbet, derfor kan den være lusket at lave på en ismaskine. Hvis du vil have den sødere tilsætter du lidt
+flere dadler eller lidt agavesirup – alt efter temperament. Den kan også sagtens laves uden dadler.
+Sorbeten her er tænkt som en let syrlig ganerenser - men den går også fint som dessert.
+",
+	"author":"Tore",
+	"tip": "Sorbeten kan naturligvis også laves med pærer. Hvis du ikke vil have så sød en sorbet, kan du undlade
+		dadlerne, men ikke vandet. Onde tunger påstår at 3 spsk Calvados i sorbet giver en bedre konsistens.
+		Hakket frisk mynte er ikke fuldstændigt tosset at putte i denne sorbet.",
+	"image": "apple-sorbet.png",	"ratings" : {"number":0,"sum":0, "showings":0}
+}

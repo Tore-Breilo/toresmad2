@@ -27,21 +27,22 @@ app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // override with POST having ?_method=PUT or DELETE
-app.use(methodOverride('_method'))
+app.use(methodOverride('_method'));
 
 app.use('/', routes);
 
 // MongoDB local connection
-mongoose.connect('mongodb://localhost:27017/CookBook');
+//mongoose.connect('mongodb://localhost:27017/CookBook');
 
 // MongoDB remote
-
+mongoose.connect('mongodb://test:secret@ds039331.mlab.com:39331/toressandkasse');
 
 mongoose.connection.on('open', function() {
     console.log('Connected to Mongoose: ');
+    // her bør håndteres manglende forbindelse til databasen
 });
 
-//Collections name
+//Collections navn
 var prefixes = ['recipes'];
 
 // map ruter to controller

@@ -1,30 +1,48 @@
-.row
-	#{recipe.title}
 .container
 
-	.col-md1.col-md-offset-10
+	.col-sm-offset-10.col-sm-span-3.text-right
+		=recipe.author +'  '
 		if recipe.date 
 			=recipe.date.getFullYear()
 			="/"
 			=recipe.date.getMonth()+1
 			="/"
 			=recipe.date.getDate()
-		.col-md-6
+
+	.row
 		=recipe.description
+
+	
+	.row 
+		.col-xs-6.col-sm-offset-3.col-sm-offset-3.col-sm-10.col-md-offset-2.col-md-8
+			if recipe.image
+				img(width="100%" src= "/images/" + recipe.image)
+			else 
+				img(src="/images/plate.jpg")
+
+
 	if recipe.instructions.length
 		.row
-			Ingredienser
+			.h3 Ingredienser:
 		each ingr in recipe.ingredients
 			.row
-				.col-md-1.col-sm-1
+				.col-sm-1.text-right
 					=ingr.amount
-				.col-md-1.col-sm-1
+				.col-sm-1.text-center
 					=ingr.unit
-				.col-md-4.col.col-sm-4
+				.col-md-4.col.col-sm-8
 					=ingr.type
+			
 	.row
-		.h3 Sådan gør du:
-	.row.col-md-6
-		=recipe.instructions
-	.row.col-md-12
-		=recipe.description
+		.row.col-md-6
+			.h3 Sådan gør du:		
+			=recipe.instructions
+			br
+			br
+			strong Velbekomme
+		.row.col-md-offset-7
+			
+			if recipe.tip
+				.well
+					.h3 Tip
+					=recipe.tip 

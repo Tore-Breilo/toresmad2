@@ -1,0 +1,30 @@
+{
+	"title": "Gustavs nemme tomatsuppe",
+	"date": ISODate("2012-10-11T23:28:56.782Z"),
+	"lastupdate": ISODate("2012-10-11T23:28:56.782Z"),
+	"amount": {"servings":"Denne opskrift er til ca. 2 personer (som hovedret).", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "1", "unit":"stk" , "type":"stort løg", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "3", "unit":"fed" , "type":"hvidløg", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "1", "unit":"flaske" , "type":"passerede tomater (600 g)", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "1", "unit":"ds" , "type":"flåede tomater", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "2", "unit":"tsk" , "type":"herpes de Provence", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "", "unit":"tsk" , "type":"timian", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "", "unit":"" , "type":"peber", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":},
+		{"amount": "", "unit":"" , "type":"olivenolie", "unit_to_gram": [{"netto":,"brutto":}], "shoppinggroup":, "protein":, "lipids":, "carbs":, "usadid":}
+		],
+	"instructions":"Skræl og hak løget groft. Skræl oh hak hvidløg fint. Sauter løg og hvidløg i olivenolie til
+de er klare. Tilsæt både de flåede og de pressede tomater (gem evt. lidt hvis du laver Gustavs
+hvidløgsbrød). Tilsæt herpes de Provence og timian. Lad suppen simre i 10 minutter og smag til
+med peber og eventuelt salt.",
+	"description":"Det her er en nem og lige ud af landevejen hverdagssuppe.",
+	"author":"Tore",
+	"tip": "",
+	"images": ["gustavstomatsuppe.png"],
+	"ratings" : {"number":,"sum":, "showings":}
+}
+

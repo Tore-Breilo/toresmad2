@@ -13,9 +13,9 @@ var ingredientSchema = new Schema({
         trim: true
     },
     desc: {
-        type: String
+        type: String,
+        required: true,
+        trim: true
     }
 });
-//exports.User = mongoose.model('User', userSchema);
-//exports.Ingredient = mongoose.model('ngredient',ingredientSchema);
 var Ingredient = mongoose.model('Ingredient',ingredientSchema);

@@ -1,6 +1,6 @@
 extends layout
 block content
 	h1 Rediger #{recipe.title}
-	include recipe
+	include newrecipe
 	form(method="POST" action="/recipes/#{recipe._id}?_method=PUT" enctype="application/x-www-form-urlencoded")
 	

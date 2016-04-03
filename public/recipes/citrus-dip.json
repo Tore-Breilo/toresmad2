@@ -1,0 +1,23 @@
+{
+	"title": "Citrus-dip",
+	"date": ISODate("2012-12-30"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"ca. 2,5 dl", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "2", "unit":"stk" , "type":"grapefrugter", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"citron, skal og saft", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "3", "unit":"stk" , "type":"lime", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"dl" , "type":"olivenolie", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"bundt" , "type":"koriander", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"dl" , "type":"honning", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Saften presses ud af grapefrugter og lime. Citronerne rives fint og saften presses. Koriander skylles og tørres. Alt blendes forsigtigt til en cremet konsistens. Smages til med en antydning salt.",
+	"description":"Denne dip er supernem at lave.",
+	"author":"Tore",
+	"tip": "Du kan smage dressingen til med mere honning, hvis den er for syrlig – men tanken er mere syrlig end sød.",
+	"image": "citrus-dip.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

@@ -1,0 +1,27 @@
+{
+	"title": "Mayonnaise",
+	"date": ISODate("2009-02-04"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"ca. 2 dl", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "1", "unit":"stk" , "type":"æg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"citron", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2,5", "unit":"dl" , "type":"Olie (mild Oliven Olie eller anden vegetabilsk olie)", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt og peber efter behag", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Pres citronen. Slå ægget ud i en høj skål og tilsæt resten af ingredienserne. Sæt stavblenderen ned i bunden af skålen og pisk med turbo knappen. Når mayo’en begynder at emulgere i bunden bevæges stavblenderen lodret op og ned indtil mayo’en er færdig. Hvis mayo’en skal bruges som dip kan der tilsættes smag efter ønske sennep, hvidløg, urter frugt m.m.
+ 		Kan opbevares i køleskab i op til en uge.",
+	"description":"En helt almindelig nem mayonnaise. I mayonnaise er det æg der er emulgatoren, som giver den cremede konsistens. Citronsaften hjælper selvfølgelig også.",
+	"author":"Tore",
+	"tip": "Prøv at tilsætte 2 fed hvidløg og ½ tsk dijon sennep til denne opskrift, så er vi tæt på at være ovre i aïoli-afdelingen.",
+	"image": "mayonnaise.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}
+
+
+ 
+     
+ 
+ 

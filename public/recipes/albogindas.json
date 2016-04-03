@@ -1,0 +1,37 @@
+{
+	"title": "Albogindas",
+	"date": ISODate("2009-02-4"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "2", "unit":"fed" , "type":"hvidløg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"lille løg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "500", "unit":"g" , "type":"hakket oksekød", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},		
+		{"amount": "90", "unit":"g" , "type":"mandler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"oregano, tørret", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"rosmarin, tørret", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,25", "unit":"tsk" , "type":"muskatnød", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"g" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "100", "unit":"g" , "type":"sesamfrø", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"løg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"fed" , "type":"hvidløg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"grøn peber", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},		
+		{"amount": "1", "unit":"ds" , "type":"flåede tomater", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1,5", "unit":"dl" , "type":"bouillon", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"peber", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"olie til at stege i", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Hak hvidløg og løg fint og svits det til det begynder at tage farve.  Blend mandler og persille. Ælt alle ingredienserne sammen undtagen sesamfrøene. 
+		Lav små frikadeller/store kødboller i hænderne. Tril bollerne i sesamfrø og steg dem langsomt i olie. 
+		Sauce: Hak løg og hvidløg fint og svits det i olie. Snit den grønne peber fint, når løgene begynder at tage 
+		farve tilsættes den grønne peber og koges med i 3-5 minutter. Tilsæt bouillon, tomater og lad det hele simre i 15 minutter og smag til.
+		Kødbollerne lunes i saucen. Retten kan eventuelt lunes i en ovnfast fad i en ovn ca. 15 min.. Servér med kogt quinoa.",
+	"description":"",
+	"author":"Tore",
+	"tip": "Kødbollerne og saucen kan sagtens laves et par dag i forvejen og opbevares i køleskabet.",
+	"image": "albogindas.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

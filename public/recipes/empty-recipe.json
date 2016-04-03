@@ -1,0 +1,24 @@
+{
+	"title": "",
+	"date": ISODate("2010-09-09"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"Denne opskrift giver ca. 50 kugler", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"",
+	"description":"",
+	"author":"Tore",
+	"tip": "",
+	"image": "",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

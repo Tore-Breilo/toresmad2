@@ -1,0 +1,30 @@
+{
+	"title": "Torsk i grønt",
+	"date": ISODate("2013-09-09"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"8 personer til forret", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "200", "unit":"g" , "type":"torsk, evt. frossen", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"laurbærblad", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "3", "unit":"stk" , "type":"peberkorn", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "3", "unit":"stk" , "type":"æg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "200", "unit":"g" , "type":"hvide asparges", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "200", "unit":"g" , "type":"syltede agurgker", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"potter" , "type":"purløg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"potter" , "type":"dild", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "100", "unit":"g" , "type":"mayonnaise", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"peber (evt. hvid)", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Dræn asparges og skær dem i små styker på ca. 1 cm, læg dem til aftørring på et rent viskestykke eller papir. Dræn agurkerne og skær dem i små tern på  ca. 5 mm, læg agurkerne til tørre sammen med aspargene.
+	Damp torsken i letsaltet vand, sammen med laurbærblade og peberkorn til torsken er mør ca. 4-7 minutter. Kog æggene hårde i letsaltet vand. Mens torsk og æg køler af skulles purløg og dild. Dup urterne tørre. Hak urterene. Når æggene er kølet af pilles de og hakkes groft - det kan med fordel gøres ved at køre æggene to gange gennem en æggedeler. 
+	Når asparges og agurker er dryppet rigtigt god af: blandes de med mayo, urter og æg. Smag til med salt og peber. Skær torsken ud i grove stykker og vend dem i salaten. Du kan også blot lægge torsken på et fad med dressingen over" ,
+	"description":"Det er en lækker salat, som Gustav er rigtig glad for. Gustavs mormor fik den en gang af Torben og den har været et hit i familien lige siden.",
+	"author":"Tore",
+	"tip": "Det er vigtigt at ingredienserne er tørre inden, salaten vendes. Server med brød og pynt med urter og citronskiver.",
+	"image": "torskesalat.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

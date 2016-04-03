@@ -1,0 +1,47 @@
+{ 
+    "title" : "Kartoffelporresuppe", 
+    "instructions" : "Skræl løg og hak dem groft. Skræl kartoflerne og skær dem i tern. Skyl og rens porrerne og dkær dem i skiverne. Svits løg og kartofler i olien,  ca. 2 min. Tilsæt porrer og svits i yderligere ca. 1 min. Hæld bouillon ved og lad suppen koge i ca. 20 min. - eller til grøntsagerne er møre. Blend suppen til den er jævn - enten med en stavblender eller i en almindelig blender. Kom suppen tilbage i gryden sammen med evt. fløde, salt og peber. Bring suppen i kog og smag den til. Bacondrys Læg imens bacon i en tør pande og steg det ved kraftig varme i ca. 3 min. Skru ned og steg det færdigt ved jævn varme i ca. 5 min. Tag bacon af panden og lad det dryppe af på ", 
+    "image" : "kartofffelporresuppe.png", 
+    "ingredients" : [
+        {
+            "amount" : "1", 
+            "unit" : "spsk", 
+            "type" : "olie"
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "stk", 
+            "type" : "løg (zittauer)"
+        }, 
+        {
+            "amount" : "500", 
+            "unit" : "g", 
+            "type" : "kartoffel"
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "stk", 
+            "type" : "porrer"
+        }, 
+        {
+            "amount" : "0,75", 
+            "unit" : "l", 
+            "type" : "bouillon"
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "tsk", 
+            "type" : "salt"
+        }, 
+        {
+            "amount" : "150", 
+            "unit" : "g", 
+            "type" : "bacon"
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "dl", 
+            "type" : "mandelmælk"
+        }
+    ]
+}

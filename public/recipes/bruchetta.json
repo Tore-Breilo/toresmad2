@@ -1,0 +1,24 @@
+{
+	"title": "Gustavs hvidløgsbrød",
+	"date": ISODate("2012-10-11T23:28:56.782Z"),
+	"lastupdate": ISODate("2016-02-2T23:28:56.782Z"),
+	"amount": {"servings":"Denne opskrift er til ca. 2 personer (som hovedret).", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "1", "unit":"pk" , "type":"glutenfrit brød", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"olivenolie", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"smule" , "type":"passerede tomater", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"hvidløgspulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"timian", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"peber", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Dryp eller pensl brødskiverne med olivenolie. Smør tomat på. Drys med timian og hvidløgspulver og evt. salt og peber.
+Rist skiverne i ovnen ved 200˚ C i ca. 10 minutter til brødet er sprødt.",
+	"description":"Det her er nogle superlækre bruschetta.",
+	"author":"",
+	"tip": "Gustav har brugt Schär’s glutenfrie grovbrød i skiver. Brug frisk hvidløg hvis du har - ellers kan du bruge pulver.",
+	"images": "bruschetta.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

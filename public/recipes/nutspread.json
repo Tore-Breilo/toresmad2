@@ -1,0 +1,42 @@
+{
+	"title": "Nøddepålæg",
+	"date": ISODate("2010-08-14T23:28:56.782Z"),
+	"lastupdate": ISODate("2016-02-2T23:28:56.782Z"),
+	"amount": {"servings":"ca. 300 g", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "100", "unit":"g" , "type":"hasselnødder", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "50", "unit":"g" , "type":"mandler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "100", "unit":"g" , "type":"dadler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1-2", "unit":"tsk" , "type":"tahin", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"tsk" , "type":"vaniljepulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "4", "unit":"spsk" , "type":"kokosfedt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"spsk" , "type":"kakao", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"anelse" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"evt. sesamolie", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}
+	],
+	"instructions":"Bag hasselnødderne i 170 ° varm ovn i 10-15 minutter til hasselnødderne begynder at dufte nøddepålægsagtigt og begynder at blive lidt gyldne.
+		Blend imens mandlerne til et fint mel i din foodprocessor.
+		Tilsæt vaniljepulver, kakao og en lillebitte smule salt.
+		Gnid hasselnødderne i et viskestykke for at fjerne de fleste af skallerne.
+		Blend nødderne sammen med mandelmelet.
+		Hæld kokosfedtet og tahinen i massen og kværn indtil, du har den konsistens du ønsker. Selv har jeg endnu ikke rigtigt opnået at ramme den helt ”rigtige” fintmalede konsistens.
+		Hvis du vil have nøddepålægget endnu blødere kan du eventuelt justere med lidt sesamolie, gerne en ristet udgave af olien.",
+	"description":"Gustav har lige spist et glas nøddepålæg. Desværre er dem jeg kan købe tilsat en heldel raffineret sukker, 
+		selvom det er fint at de fås økologiske og uden hverken mælk eller gluten. Dette er et temmelig fint forsøg på at ramme
+		en smørbar praliné uden tilsat sukker. Som altid er ingredienserne økologiske – jeg gider bare ikke at skrive det ud for hver ingrediens.",
+	"author":"Tore",
+	"tip": "Du kan eventuelt smutte mandlerne, det vil være med til at gøre nøddepålægget mindre rustikt.",
+	"image": "nutspread.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}
+
+
+
+
+ 
+     
+ 
+ 

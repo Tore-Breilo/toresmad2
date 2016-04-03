@@ -1,0 +1,111 @@
+{ 
+    "title" : "Lakridskugler", 
+    "date" : ISODate("2010-03-10"), 
+    "lastupdate" : ISODate("2016-02-02"), 
+    "amount" : {
+        "servings" : "ca. 50 stk", 
+        "weigth" : ""
+    }, 
+    "preptime" : {
+        "active" : "", 
+        "passive" : ""
+    }, 
+    "categories" : [
+
+    ], 
+    "origin" : "wwww.toresmad.dk", 
+    "ingredients" : [
+        {
+            "amount" : "250", 
+            "unit" : "g", 
+            "type" : "mandler, økologiske", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "200", 
+            "unit" : "g", 
+            "type" : "dadler", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "spsk", 
+            "type" : "lakridsrod eller lakridsrodspulver", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "20", 
+            "unit" : "dråber", 
+            "type" : "anisolie", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "", 
+            "unit" : "", 
+            "type" : "evtentulet 1 spsk vand", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }
+    ], 
+    "instructions" : "Blend lakridsroden sammen med nogle af mandlerne. Jeg gør det i en kaffekværn for at få lakridsroden findelt nok. Du kan sagtens bruge lakridsrodspulver i stedet men det jeg havde i skabet var skåret lakridsrod, så derfor.
+    Hæld lakridsrod og mandler i din blender og blend til en passende konsistens. Tilføj dadlerne og blend til du begynder at få en marcipanagtig masse. Dryp anisolien i og blend. Du kan justere konsistensen med 1 – 2 spsk vand. 
+    Tril kuglerne.", 
+    "description" : "Her er nogle lækre lakridskugler.", 
+    "author" : "Tore", 
+    "tip" : "Kan sagtens stå i køleskab i 2 -3 dage. Du kan erstatte lakridsdrodspulveret med rålakridspulver - det gør et hele mere lækkert.", 
+    "image" : "lakrids-kugler.png", 
+    "ratings" : {
+        "number" : NumberInt(0), 
+        "sum" : NumberInt(0), 
+        "showings" : NumberInt(0)
+    }
+} 

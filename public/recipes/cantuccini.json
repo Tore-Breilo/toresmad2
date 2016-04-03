@@ -1,0 +1,30 @@
+{
+	"title": "Cantuccini",
+	"date": ISODate("2016-03-11T23:28:56.782Z"),
+	"lastupdate": ISODate("2016-02-2T23:28:56.782Z"),
+	"amount": {"servings":"", "weigth":""},
+	"preptime": {"active":"15","passive":"20"},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "200", "unit":"g" , "type":"mandelmel", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "50", "unit":"g" , "type":"rismel", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"bagepulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"knvsp" , "type":"vaniljepulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"anelse" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"stk" , "type":"citron", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"spsk" , "type":"kokosolie", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "85", "unit":"g" , "type":"rørsukker", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"æg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "100", "unit":"g" , "type":"mandler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		],
+	"instructions":"Bland mandelmel, rismel, bagepulver, vaniljepulver og salt sammen. Riv citronskallen fint. Bland citronskal, kokosolie, sukker og i æg i melblandingen. Til sidst røres mandlerne i.
+					Dejen deles i 2 og rulles ud i nogle ca. 30 cm lange og 4 cm brede stænger. Placér 
+					stængerne på en bageplade og bag dem ca. 25 min ved 160 °C. Lad stængerne køle af.Skær stængerne på skrå i ca. 2 cm brede stiver. Rist stykkerne på en rist eller en bageplade med 
+					skærefladen op, i ca. 15 -20  minutter - indtil de sprøde og gyldne.", 
+	"description":"Man kan sagtens drikke kaffe uden disse cantuccini men det kan være svært.",
+	"author":"Tore",
+	"tip": "Måske skal du bruge 1-3 spsk vand for at få dejen til at hænge sammen. Prøv evt at erstatte den revne citronskal med ca. 1,5 teske rosenvand. Du kan også bruge pistacie- eller hasselnødder i stedet for mandlerne. ",
+	"images": "cantuccini.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

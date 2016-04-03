@@ -1,0 +1,24 @@
+{
+	"title": "Sød chili dip",
+	"date": ISODate("2010-09-09"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"Denne opskrift giver ca. 50 kugler", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "250", "unit":"g" , "type":"dadler, tørrede", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"stk" , "type":"chili", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"dl" , "type":"vand", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"dl" , "type":"risvinseddike", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "2", "unit":"spsk" , "type":"tomatpasta, kencentreret", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"tsk" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "evt.", "unit":"" , "type":"ingefær", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Chilierne renses, frøene kan eventuelt fjernes. Citronerne rives fint og saften presses. Alt blendes forsigtigt til cremet konsistens. Smages til med en antydning salt. Tilsæt eventuelt lidt frisk ingefær.",
+	"description":"",
+	"author":"Tore",
+	"tip": "Du kan smage dressingen til med mere chili. Opskriften her er tænkt lavet med to rottelortechili, som i sig selv giver en rimelig styrke. Chilifrøene kan ristes på en tør pande og tilsættes dippen til sidst – det giver også en hvis varme/charme.",
+	"image": "soed-chili-dip.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

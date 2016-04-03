@@ -1,0 +1,25 @@
+{
+	"title": "Rødbededip",
+	"date": ISODate("2013-2-4"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "500", "unit":"g" , "type":"rødbeder", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"stk" , "type":"citron", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "50", "unit":"g" , "type":"solsikkefrø", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"sennepspulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"anelse" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"knvsp" , "type":"sort peber", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Sæt solsikkefrøene i blød, natten over. Bag rødbederne i en lille times tid i ovnen ved 175˚ C.
+	Lad rødbederne køle lidt af og flå/skræl dem. Citronskallen rives fint og saften presses. Dræn solsikkekernerne.
+	Alle ingredienser blandes og blendes (konsistensen kan justeres med lidt olie eller vand) Smag til med salt og peber",
+	"description":"Denne opskrift er nem at lave og god til at dippe",
+	"author":"Tore",
+	"tip": "Du kan sagtens bruge sennepsfrø i stedet for sennepspulveret, gerne ristede. Du kan selvfølgelig også tilsætte peberrod.",
+	"image": "roedbede-dip.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}
+

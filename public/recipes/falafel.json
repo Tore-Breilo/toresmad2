@@ -1,0 +1,32 @@
+{
+	"title": "falafel",
+	"date": ISODate("2009-01-15T23:28:56.782Z"),
+	"lastupdate": ISODate("2016-03-4T23:28:56.782Z"),
+	"amount": {"servings":"", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "250", "unit":"g" , "type":"tørrede kikærter", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "4", "unit":"fed" , "type":"hvidløg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"lille, løg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"håndfuld" , "type":"persillle", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"håndfuld" , "type":"koriander, frisk", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"chili", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"spidskommen", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"tsk" , "type":"korianderfrø, knust", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"salt", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"peber", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"olie, til stegning", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		],
+	"instructions":"Læg kikærterne i blød i rigeligt vand natten over. Blend kikærterne til en fin pure/ et fint pulver.
+Blend chilien, sammen med persille, hvidløg, koriander og et par skefulde kikærtepuré.  Bland nu alle ingredienserne sammen og smag til med salt og peber.
+Formes til små kugler/deller på størrelse med den allestedsnærværende valnød.
+ 
+Steges i olie til de er gyldne.",
+	"description":"Servér med en hummus.",
+	"author":"Tore",
+	"tip": "",
+	"image": "falafel.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}

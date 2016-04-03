@@ -1,0 +1,72 @@
+
+// 4 Gorgeous Superfood Smoothies Du skal forsøge 3 juli 2013 | Af Ashley Macha
+// description: Vi elsker absolut superfoods her på Health.
+// Ikke alene er de friske og lækre, de kan også hjælpe med at beskytte mod kroniske sygdomme, fremmer sund aldring, og øge din humør, energi, stofskifte, og hukommelse -og det er kun begyndelsen.
+// Så da vi så disse super-sunde, smukke smoothies, vi bare vidste, at vi havde brug for at dele dem.
+// Hjernen bag disse geni opskrifter? Julie Morris, forfatter til superfood Smoothies: 100 Lækker, Energizing & næringsrige opskrifter, til rådighed for kun $ 12.
+// Her er fire af vores favoritter fra den nye bog:
+// Foto: Genoptrykt med tilladelse fra superfood Smoothies © 2013 af Julie Morris, Sterling Publishing Co., Inc. fotografering af Julie Morris
+{
+"title": "Mango Chili",
+"servings": {"Giver 2 store glas (a 4,5 dl)"},
+"ingredients": [ 
+	{"amount": 2.5,	"unit":"kopper", 	"type": "frosne mangostykker"},
+	{"amount": 3, 	"unit": "spsk", 	"type": "hampefrø" },
+	{"amount": 2,  	"unit": "spsk",		"type": "tørrede goji bær"},
+  	{"amount":1,	"unit": "tsk",	  	"type": "chilipulver"},
+  	{"amount":4,	"unit": "dl½",		"type": "æblejuice"},
+  	{"amount":2.5,	"unit": "dl",		"type": "vand"},
+  	{"amount":2,	"unit": "spsk",		"type": "limesaft, friskpresset"}],
+  "instructions":"Blend alle ingredienserne sammen indtil smoothien er glat. Smag til.",
+  "tip": "Superfood boost: Tilsæt 1 spsk chiafrø for ekstra fibre."
+},
+
+{
+	"title": "Mint Chip",
+	"servings": {"Giver 2 store glas (a 5 dl)"},
+	"ingredients" :[
+		{"amount": 5, "unit": "dl" , "type":"frossen spinat"},
+		{"amount": 5, "unit": "dl" , "type":"frosne  bananstykker"},
+		{"amount":	0.625, "unit": "g" , "type":"cashewnødder"},
+		{"amount": 3, "unit": "spsk" , "type":"cacaonips"},
+		{"amount":	2, "unit":"spsk" , "type":"friske mynteblade hakkede og pressede"},
+		{"amount": 1, "unit": "tsk", "type":"vanillekstrakt"},
+		{"amount": 5, "unit": "dl", "type": "rismælk"},
+		{"amount": 1.25, "unit": "dl" , "type": "kokosvand"},
+		{"amount":0	, "unit":"" , "type":"eventuelt sødemiddel efter smag."}],
+	"instructions":"Blend alle ingredienserne sammen indtil smoothien er glat. Smag til.",
+	"tip": "Superfood boost: Tilføj 1/4 tsk Chlorella (eller efter smag).",
+	"image": "mint_chip.jpg"
+},
+
+{
+	"title": "Jordbær-basilikum smoothie",
+	"servings": {"Giver 2 store glas (a ca. 5 dl)"},
+	"origin": "superfood Smoothies © 2013 af Julie Morris, Sterling Publishing Co., Inc. fotografering af Julie Morris",
+	"ingredients" :[
+		{"amount": 5, "unit":"dl" , "type":"frosne jordbær"},
+		{"amount": 4, "unit": "dl" , "type":"cherrytomater"},
+		{"amount": 0.5, "unit": "dl" , "type":"tørrede gojibær"},
+		{"amount": 4, "unit":"stk" , "type":"tørrede dadler"},
+		{"amount":2, "unit":"spsk" , "type":"limesaft, friskpresset"},
+		{"amount":1, "unit":"spsk" , "type":"hakket frisk basilikum"},
+		{"amount": 2.5, "unit":"dl" , "type":"kokosvand"}],
+		"instructions":"Blend alle ingredienserne sammen indtil smoothien er glat. Smag til.",
+	"tip": "Superfood boost: Tilsæt 1 tsk maquibær pulver.",
+	"image": "strawberry-basil.jpg"
+},
+{	"title": "Grapefrugt-granatæble smoothie",
+	"servings": "Giver 2 store glas (a 4 dl)",
+	"origin": "superfood Smoothies © 2013 af Julie Morris, Sterling Publishing Co., Inc. fotografering af Julie Morris",
+	"ingredients" :[
+		{"amount": 5, "unit":"dl" , "type":"frosne jordbær"},
+		{"amount": 4, "unit": "dl" , "type":"isterninger af grøn te"},
+		{"amount": 2.5, "unit": "dl" , "type":"grapefrugt uden kerner, skrællet og hakket"},
+		{"amount": 4, "unit": "dl" , "type":"granatæblejuice"},
+		{"amount": 2, "unit": "tsk" , "type":"maqui-pulver"},
+		{"amount": 0.5, "unit": "tsk" , "type":"ingefærpulver"}],
+	"instructions":"Blend alle ingredienserne sammen indtil smoothien er glat. Smag til.",
+	"tip": "Superfood boost: Tilsæt 2 spsk hampefrø.",
+	"image": "grape-pomegrenate.jpg"
+
+}

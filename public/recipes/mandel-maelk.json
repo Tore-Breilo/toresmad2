@@ -1,0 +1,26 @@
+{
+	"title": "Mandelmælk",
+	"date": ISODate("2009-04-24"),
+	"lastupdate": ISODate("2016-03-13"),
+	"amount": {"servings":"1 l.", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "2,5", "unit":"dl" , "type":"mandler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "7,5", "unit":"dl" , "type":"vand", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "3-5", "unit":"stk" , "type":"eventuelt tørrede dalder", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":", pasteuriserede", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Læg mandlerne i blød i mindst 6 timer gerne natten over. Dræn de udblødte mandler og kasser vandet.
+	Blend mandler med friskt vand indtil du får en mælkeagtig konsistens og tilsæt eventuelt lidt dadler, hvis du er til er det søde.
+	Si mælken for at fjerne mandelstumperne. Brug mandelmælken til pandekager og smoothies eller drik den som den er.",
+	"description":"",
+	"author":"Tore",
+	"tip": "Du kan også smutte mandlerne hvis du vil have en mere hvid mandelmælk. Mandelsnasket som du får til overs kan med fordel bruges til pandekager: rør det op med 2-3 æg, lidt vaniljepulver en anelse salt og en sjat majs- eller boghvedemel.
+ Steg dem på panden i kokosolie.",
+	"images": "almondmilk.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}
+ 

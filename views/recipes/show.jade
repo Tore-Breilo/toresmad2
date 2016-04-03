@@ -1,10 +1,10 @@
 extends layout
 
 block content
-  h1 #{recipe.title}
+  h1.text-uppercase #{recipe.title}
   include recipe
   form(method="POST" action="/recipes/#{recipe._id}?_method=DELETE" enctype="application/x-www-form-urlencoded")
-       input(type="submit"
+       //input(type="submit"
              name="submit"
              id="submit"
              value="Slet opskrift")

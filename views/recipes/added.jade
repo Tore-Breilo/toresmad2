@@ -2,9 +2,9 @@ extends layout
 
 block content
 	#opskrift
-		.row.col-md-12
-			h1
-				=title
+		.row
+		h1
+		=title
 
 		if recipe.ingredients
 			each ingredient, i in recipe.ingredients

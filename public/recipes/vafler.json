@@ -1,0 +1,29 @@
+{
+	"title": "Vafler",
+	"date": ISODate("2010-07-27"),
+	"lastupdate": ISODate("2016-02-2"),
+	"amount": {"servings":"ca. 5 vafler", "weigth":""},
+	"preptime": {"active":"","passive":""},
+	"categories" :[],
+	"origin": "wwww.toresmad.dk",
+	"ingredients" :[
+		{"amount": "50", "unit":"g" , "type":"mandler", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"stk" , "type":"stort æble (ca. 150 g)", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "1", "unit":"dl" , "type":"vand", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "50", "unit":"g" , "type":"boghved eller quinoamel", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "3", "unit":"stk" , "type":"æg", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"tsk" , "type":"'HUSK' fiber (Psyllium)", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,5", "unit":"tsk" , "type":"kanel", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "0,25", "unit":"tsk" , "type":"vanillepulver", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""},
+		{"amount": "", "unit":"" , "type":"kokosolie til stegning", "unit_to_gram": [{"netto":"","brutto":""}], "shoppinggroup":"", "protein":"", "lipids":"", "carbs":"", "usadid":""}],
+	"instructions":"Skyl koriander/persille grundigt og lad det tørre lidt. Kom urter, hvidløg, chili, mandler, halvdelen af tomaterne, olie, citron- eller limesaft og eddiken i foodprocessoren. Blend. Tilsæt resten af tomaterne, peberfrugt og rødløget og blend forsigtigt til du får den konsistens du vil have. Smag til med salt og peber",
+	"description":"",
+	"author":"Tore",
+	"tip": "Blend mandlerne til fint ”mel”. Del æblet og skær kernehuset fra og blend det sammen med mandelmelet og vandet. Tilsæt de sidste ingredienserne og blend dejen sammen.
+	Pensl vaffeljernet med kokosolie og bag vaflerne. Bag mens jernet er varmt så skal det nok gå godt. Kanel kan erstattes med kardemomme og citronsaft og skal.
+	Dejen kan også bruges til æbleskiver. Rigtig god fornøjelse",
+	"image": "vafler.png",
+	"ratings" : {"number":0,"sum":0, "showings":0}
+}
+
+          

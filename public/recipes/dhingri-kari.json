@@ -1,0 +1,206 @@
+{ 
+    "_id" : ObjectId("56db5a3aa75ef1e7cdac1cde"), 
+    "title" : "Dhingri Kari (champignon karry)", 
+    "date" : ISODate("2013-02-10T23:28:56.782+0000"), 
+    "lastupdate" : ISODate("2016-03-04T23:28:56.782+0000"), 
+    "amount" : {
+        "servings" : "", 
+        "weigth" : ""
+    }, 
+    "preptime" : {
+        "active" : "", 
+        "passive" : ""
+    }, 
+    "categories" : [
+
+    ], 
+    "origin" : "wwww.toresmad.dk", 
+    "ingredients" : [
+        {
+            "amount" : "500", 
+            "unit" : "g", 
+            "type" : "champignons", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "stk", 
+            "type" : "porrer (eller tilsvarende mængde forårsløg)", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "fed", 
+            "type" : "hvidløg", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "1", 
+            "unit" : "spsk", 
+            "type" : "ingefær, finthakket", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "6", 
+            "unit" : "stk", 
+            "type" : "karry-blade", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "spsk", 
+            "type" : "karrypulver", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "½", 
+            "unit" : "tsk", 
+            "type" : "salt", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "½", 
+            "unit" : "spsk", 
+            "type" : "garam masala", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "dl", 
+            "type" : "fed kokosmælk", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "2", 
+            "unit" : "spsk", 
+            "type" : "olie, til stegning", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }, 
+        {
+            "amount" : "½", 
+            "unit" : "stk", 
+            "type" : "citron", 
+            "unit_to_gram" : [
+                {
+                    "netto" : "", 
+                    "brutto" : ""
+                }
+            ], 
+            "shoppinggroup" : "", 
+            "protein" : "", 
+            "lipids" : "", 
+            "carbs" : "", 
+            "usadid" : ""
+        }
+    ], 
+    "instructions" : "Rene svampene og skær dem i skiver eller halver dem. Rens og snit porrerne fint.  Skræl og hak hvidløg og ingefær fint. Riv citronskal og pres citronen. Varm olien op og svits hvidløg, ingefær, karry blade og porrer indtil de er bløde, men uden at de tager farve. Tilsæt karrypulver, salt og svampe og fortsæt med at røre over svag varme, indtil svampene er bløde. Læg låg på gryden og lad retten simre ved svag varme 5-8 minutter. Drys med garam masala og tilsæt kokosmælken. Varm retten igennem og fjern gryden fra komfuret. Smag til med citronsaft og citronskal og evt. salt og peber. Serveres med ris eller pilaf med grøntsager.", 
+    "description" : "Denne opskrift er god til vegetarer", 
+    "author" : "Tore", 
+    "tip" : "Du kan sagtens bruge andre svampe, det vil være oplagt at prøve med kejhserhatte-, sort trompet- eller shiitake-svampe. Det vil være fint at jævne retten ved at drøne 20-50 g blendede cashewnødder eller mandler i.", 
+    "image" : "dhingri-kari.png", 
+    "ratings" : {
+        "number" : NumberInt(0), 
+        "sum" : NumberInt(0), 
+        "showings" : NumberInt(0)
+    }
+}
