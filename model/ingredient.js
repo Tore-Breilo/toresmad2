@@ -2,6 +2,7 @@ var mongoose = require('mongoose'),
 	Schema = mongoose.Schema;
 // create recipe model
 var ingredientSchema = new Schema({
+    
     amount: {
         type: Number,
         min: 0,

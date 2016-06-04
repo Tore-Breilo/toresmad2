@@ -2,7 +2,8 @@
 "bakke":{
 	"abbr":"bk",
 	"plur": "bakker",
-	"type": "countable"
+	"type": "countable",
+	"system": "dk"
 },
 "bndt":{
 	"sing":"bundt",
@@ -43,8 +44,13 @@
 	"sing": "cup",
 	"plur": "cups",
 	"type": "volume",
-	"value": {"fl_oz":8, "ml": 236.56},
+	"value": [{"fl_oz":8}, {"ml": 236.56}],
 	"system": "us"
+},
+"knivspids":{
+	"abbr": "knvsp",
+	"type":"volume",
+	"value"
 }
 
 		Styk	Antal
@@ -58,7 +64,7 @@ Kcal	kilo kalorier	1000	Kalorier	energiindhold
 "tsk"	"teske"	0,005		Volumen
 "cl"	"centiliter"	0,01	l	Volumen
 "spsk"	"spiseske"	0,015		Volumen
-"Dl"	"deciliter"	0,1	l	Volumen
+"dl"	"deciliter"	0,1	l	Volumen
 "kop"	"kop"	0,25	l	Volumen
 "l"	"liter"	1	l	Volumen
 "spand"	"spand"	10	l	Volumen

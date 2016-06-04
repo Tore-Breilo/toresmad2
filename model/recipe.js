@@ -17,7 +17,7 @@ var recipeSchema = new Schema({
         required: true,
         trim: true
     },
-    instructions: String,
+    instructions: [String],
     description: String,
 
     ingredients: [Ingredient],

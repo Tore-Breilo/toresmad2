@@ -98,6 +98,7 @@ exports.show = function(req, res) {
             res.send('Der mangler desværre en opskrift med nummeret ' + id);
         else
         	//console.log('længden på doc er:'+doc.length);
+            console.log("typen af instruktioner er: "+ typeof(doc.instructions));
             console.log(doc);
             res.render('recipes/show', {
                 title: 'Vis opskrift',

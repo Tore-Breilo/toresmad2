@@ -35,8 +35,14 @@
 			
 	.row
 		.row.col-md-6
-			.h3 Sådan gør du:		
-			=recipe.instructions
+			.h3 Sådan gør du:
+			if (typeof recipe.instructions =="object")
+				ul
+					each inst in recipe.instructions
+						li 
+							=inst
+			else
+				=recipe.instructions
 			br
 			br
 			strong Velbekomme
